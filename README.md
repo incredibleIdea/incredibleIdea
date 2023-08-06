@@ -1,7 +1,4 @@
-<div align="center">
 ![image](https://github.com/incredibleIdea/incredibleIdea/assets/23035551/b754b784-f30a-48ac-ab6b-13f2a807cc35)
-
-</div>
 
 <p align="center">
   <a href="https://www.typescriptlang.org/"><img alt="TypeScript Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2FTypeScript%2Fraw%2Fmain%2Fpackage.json&query=%24.version&label=typescript"></a>
