@@ -1,5 +1,6 @@
 <div align="center">
-  ![image](https://github.com/incredibleIdea/incredibleIdea.github.io/assets/23035551/194d06ba-27b5-46be-83c3-5b2e6e201010)
+![image](https://github.com/incredibleIdea/incredibleIdea/assets/23035551/b754b784-f30a-48ac-ab6b-13f2a807cc35)
+
 </div>
 
 <p align="center">
