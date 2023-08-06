@@ -7,7 +7,7 @@
 
 ![image](https://github.com/incredibleIdea/incredibleIdea.github.io/assets/23035551/9dc69d84-d353-4428-85ff-f7d39777b039)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Incredible+Idea;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Games+Lovers;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Incredible+Idea;+Welcome+to+My+Profile!;I+have+over+4+years+of+programming+experience;Always+learning+new+things+;Games+Lovers;)](https://git.io/typing-svg)
 
 <!--   my-skils -->
 
